@@ -22,4 +22,7 @@ public class Edge {
     public Integer getWeight() {
         return this.weight;
     }
+
+
+    //paloma te amo
 }
